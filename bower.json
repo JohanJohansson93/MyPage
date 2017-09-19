@@ -1,0 +1,7 @@
+{
+  "name": "mypage",
+  "dependencies": {
+    "jquery":"3.2.1",
+    "bootstrap": "4.0.0-beta"
+  }
+}
